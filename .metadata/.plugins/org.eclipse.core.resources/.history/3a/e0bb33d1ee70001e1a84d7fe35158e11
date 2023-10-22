@@ -1,0 +1,8 @@
+package com.javacomspringboot.primeiroprojeto.resources;
+
+public class Snippet {
+	public static void main(String[] args) {
+		/primeiroprojeto/src/main/java/com/javacomspringboot/primeiroprojeto/resources/CategoryResource.java
+	}
+}
+

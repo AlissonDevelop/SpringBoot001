@@ -1,0 +1,5 @@
+package com.javacomspringboot.primeiroprojeto.repositories;
+
+public class CategoryRepository {
+
+}

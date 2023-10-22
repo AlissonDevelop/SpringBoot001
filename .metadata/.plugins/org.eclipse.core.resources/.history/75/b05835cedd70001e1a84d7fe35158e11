@@ -1,0 +1,5 @@
+package com.javacomspringboot.primeiroprojeto.entities;
+
+public class Category {
+
+}
